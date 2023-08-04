@@ -333,6 +333,8 @@
     <Content Include="Imagenes\Productos\Realme.jpg" />
     <Content Include="Imagenes\Productos\samsung.jpg" />
     <Content Include="Imagenes\Productos\zte.png" />
+    <Content Include="Imagenes\Tarjetas\master.png" />
+    <Content Include="Imagenes\Tarjetas\visa.png" />
     <Content Include="Scripts\bootstrap-confirmation.min.js" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -573,7 +575,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Imagenes\Tarjetas\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
